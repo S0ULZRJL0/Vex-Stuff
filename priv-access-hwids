@@ -1,3 +1,5 @@
-local HWIDs = {}
+local HWIDs = {
+"47415A90-C8A4-490A-AF2C-A74CF366393D";
+}
 
 return HWIDs
